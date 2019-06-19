@@ -1,4 +1,4 @@
-# ref: ../droid-hal-version/droid-hal-device.inc
+# Reference: ../droid-hal-version/droid-hal-version.inc
 
 %define vendor oneplus
 %define device cheeseburger
